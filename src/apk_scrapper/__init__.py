@@ -1,0 +1,1 @@
+"""APKPure scraping primitives."""
